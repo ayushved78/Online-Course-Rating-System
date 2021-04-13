@@ -1,0 +1,15 @@
+C:\Users\ayush\Desktop\ptdemo\rating\obj\Debug\netcoreapp3.1\rating.csprojAssemblyReference.cache
+C:\Users\ayush\Desktop\ptdemo\rating\obj\Debug\netcoreapp3.1\rating.AssemblyInfoInputs.cache
+C:\Users\ayush\Desktop\ptdemo\rating\obj\Debug\netcoreapp3.1\rating.AssemblyInfo.cs
+C:\Users\ayush\Desktop\ptdemo\rating\obj\Debug\netcoreapp3.1\rating.csproj.CoreCompileInputs.cache
+C:\Users\ayush\Desktop\ptdemo\rating\bin\Debug\netcoreapp3.1\rating.exe
+C:\Users\ayush\Desktop\ptdemo\rating\bin\Debug\netcoreapp3.1\rating.deps.json
+C:\Users\ayush\Desktop\ptdemo\rating\bin\Debug\netcoreapp3.1\rating.runtimeconfig.json
+C:\Users\ayush\Desktop\ptdemo\rating\bin\Debug\netcoreapp3.1\rating.runtimeconfig.dev.json
+C:\Users\ayush\Desktop\ptdemo\rating\bin\Debug\netcoreapp3.1\rating.dll
+C:\Users\ayush\Desktop\ptdemo\rating\bin\Debug\netcoreapp3.1\rating.pdb
+C:\Users\ayush\Desktop\ptdemo\rating\obj\Debug\netcoreapp3.1\rating.dll
+C:\Users\ayush\Desktop\ptdemo\rating\obj\Debug\netcoreapp3.1\rating.pdb
+C:\Users\ayush\Desktop\ptdemo\rating\obj\Debug\netcoreapp3.1\rating.genruntimeconfig.cache
+C:\Users\ayush\Desktop\ptdemo\rating\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ayush\Desktop\ptdemo\rating\obj\Debug\netcoreapp3.1\rating.csproj.CopyComplete

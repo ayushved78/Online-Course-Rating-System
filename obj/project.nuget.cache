@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J2LxmmyEw5etxXsGyUYpF8n1iwz/aV+8KUbhPXJNElNGVcbixlXJVuaV6IbHVP9tbZoSMffn9dRsdfBnXGcCkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ayush\\Desktop\\ptdemo\\rating\\rating.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayush\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

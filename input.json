@@ -1,0 +1,29 @@
+{
+    "input":[
+    {
+      "name":"Tableau 2020 A-Z: Data Science",
+      "description":["Kirill Eremenko","Udemy","4.2"]
+    },
+    {
+        "name":"Neural Networks : Bootcamp",
+        "description":["Academind","PluralSight","4.1"]
+    },
+    {
+        "name":"Machine Learning",
+        "description":["IBM","Coursera","4.8"]
+    },
+    {
+        "name":"Deep Learning : Scientific Approach",
+        "description":["HarvardX","edX","4.1"]
+    },
+    {
+        "name":"Programming for Data Science with R",
+        "description":["Kirill Eremenko","Udemy","4.2"]
+    },
+    {
+        "name":"Learn Python with Data Science",
+        "description":["Great Lakes","greatlearning","4.4"]
+    }
+    
+  ]
+}
